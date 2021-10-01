@@ -1,6 +1,6 @@
 package com.example.kotlintest
 
-class Card()
+class Card(var text : String,var pos : Int)
 
 
 
