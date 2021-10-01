@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="text">Text</string>
+    <string name="card">Card</string>
+    <string name="text1">RecyclerView</string>
+    <string name="options_1">Options 1</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="activity_2">Activity 2</string>
+</resources>
